@@ -109,3 +109,5 @@ var animals = ["red panda", "penguin", "polar bear"]
 for index in 0..<animals.count{
     print("I love " + animals[index])
 }
+
+var string = "Checking to see if github works!"
